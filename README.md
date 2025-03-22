@@ -1,4 +1,4 @@
-# Crux Security – "Where Cybersecurity and Business Results Meet"
+# Crux Cybersecurity – "Where Cybersecurity and Business Results Meet"
 
 ## Hi there, I'm Crux! Welcome to Crux Security, where cybersecurity takes center stage. This is my sample portfolio — stuff I’ve worked on to demonstrate what a cybersecurity portolfio can look like on Github. From cybersecurity to cloud, from code to compliance, there’s a bit of everything here. Take a look around!
 
