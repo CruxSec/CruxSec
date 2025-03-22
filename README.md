@@ -55,3 +55,18 @@ My journey in information technology has led me to develop a passion for cyberse
   Bachelor's in Cybersecurity:<p>
 	(inlcude a link to your program and school)</p>
 </div>
+
+> NOTE:  (...here ends the main portfolio page...)
+
+---
+
+## References
+Here are some good references to use when creating your portfolio:
+| Name					| Description			| Link				|
+|---------------------------------------|-------------------------------|-------------------------------|
+| Markdown code 			| Used to create the code for the pages |<a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheatsheet</a>|
+| Creating a Cybersecurity Portfolio on Github | YouTube video: MyDFIR on how to create a Github portfolio |<a href="https://youtu.be/p59B-I67yf8?si=0xcLLYe9NL_xEQEs">Create a Cybersecurity Portfolio on Github (GUIDE)</a>|
+| Creating a Portfolio on Github | YouTube video: Josh Madakor on how to create a Github portfolio |<a href="https://youtu.be/zgqfWLHNKLk?si=95PehOebByVrSo86">Tutorial: How to Create a Portfolio on Github (BEAUTIFUL) Cybersecurity, IT, or Developer</a>|
+| AWS Free tier	| Free tier to try different AWS labs 	| <a href="https://aws.amazon.com/free/">AWS Free Tier</a>|
+
+
